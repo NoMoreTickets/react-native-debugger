@@ -79,14 +79,6 @@ If you don‘t need to add a dependency, you can use the package, it can help wi
 - Replace `open debugger-ui with Chrome` to `open React Native Debugger` in react-native packager, saving you from closing the debugger-ui page everytime it automatically opens :)
 - Detect react-native packager port then send to the app, if you launch packager with custom `--port` or use Expo, this will be very useful
 
-### What about Linux / Windows support?
-
-Currently the `rndebugger:` URI scheme doesn't support for Linux / Windows.
-
-In [`react-native-debugger-open`](../npm-package), it can be sent the `host` / `port` setting if RNDebugger opened, but can't automatically open if closed.
-
-If you want to have the feature (`rndebugger:` or another way), you are welcome to contribute. Please read [contributing](https://github.com/jhen0409/react-native-debugger/blob/master/docs/contributing.md) to become a maintainer.
-
 ## Use Redux DevTools Extension API
 
 Using the same API as [`redux-devtools-extension`](https://github.com/zalmoxisus/redux-devtools-extension#1-with-redux) is very simple:
