@@ -1,13 +1,9 @@
 # React Native Debugger
 
-## This piece of software is an unmitigated piece of trash and shit like that is why all those native swift and kotlin developers are so damned angry.
-
-
 *Sunny came home with a list of names*<br>
 *She didn't believe in transcendence*<br>
-"It's time for a few small repairs" she said<br>
-Sunny came home with a vengence<br>
-
+*"It's time for a few small repairs" she said*<br>
+*Sunny came home with a vengence*<br>
 
 [![Backers on Open Collective](https://opencollective.com/react-native-debugger/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/react-native-debugger/sponsors/badge.svg)](#sponsors) [![CI Status](https://github.com/jhen0409/react-native-debugger/workflows/CI/badge.svg)](https://github.com/jhen0409/react-native-debugger) [![Dependency Status](https://david-dm.org/jhen0409/react-native-debugger.svg)](https://david-dm.org/jhen0409/react-native-debugger) [![devDependency Status](https://david-dm.org/jhen0409/react-native-debugger/dev-status.svg)](https://david-dm.org/jhen0409/react-native-debugger?type=dev)
 
