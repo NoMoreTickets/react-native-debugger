@@ -1,5 +1,14 @@
 # React Native Debugger
 
+## This piece of software is an unmitigated piece of trash and shit like that is why all those native swift and kotlin developers are so damned angry.
+
+
+*Sunny came home with a list of names*<br>
+*She didn't believe in transcendence*<br>
+"It's time for a few small repairs" she said<br>
+Sunny came home with a vengence<br>
+
+
 [![Backers on Open Collective](https://opencollective.com/react-native-debugger/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/react-native-debugger/sponsors/badge.svg)](#sponsors) [![CI Status](https://github.com/jhen0409/react-native-debugger/workflows/CI/badge.svg)](https://github.com/jhen0409/react-native-debugger) [![Dependency Status](https://david-dm.org/jhen0409/react-native-debugger.svg)](https://david-dm.org/jhen0409/react-native-debugger) [![devDependency Status](https://david-dm.org/jhen0409/react-native-debugger/dev-status.svg)](https://david-dm.org/jhen0409/react-native-debugger?type=dev)
 
 ![React Native Debugger](https://user-images.githubusercontent.com/3001525/29451479-6621bf1a-83c8-11e7-8ebb-b4e98b1af91c.png)
@@ -16,43 +25,6 @@ This is a standalone app for debugging React Native apps:
 ## Installation
 
 To install the app, you can download a prebuilt binary from the [release page](https://github.com/jhen0409/react-native-debugger/releases).
-
-For **macOS**, you can use [Homebrew Cask](https://caskroom.github.io) to install:
-
-### < Homebrew 2.6.0
-
-```bash
-brew update && brew install --cask react-native-debugger
-```
-
-### >= Homebrew 2.6.0
-
-```bash
-brew install --cask react-native-debugger
-```
-
-This puts `React Native Debugger.app` in your `/applications/` folder.
-
-### NOTICE: React Native Compatibility
-
-To use this app you need to ensure you are using the correct version of React Native Debugger and react-native:
-
-| React Native Debugger | react-native |
-| --------------------- | ------------ |
-| >= 0.11               | >= 0.62      |
-| <= 0.10               | <= 0.61      |
-
-We used different auto-update feed for `v0.10` and `v0.11`, so you won't see update tips of `v0.11` from `v0.10`.
-
-Install last release of v0.10 (0.10.7)
-
-### < Homebrew 2.6.0
-
-`brew update && brew cask install https://raw.githubusercontent.com/Homebrew/homebrew-cask/b6ac3795c1df9f97242481c0817b1165e3e6306a/Casks/react-native-debugger.rb`
-
-### >= Homebrew 2.6.0
-
-`brew install --cask https://raw.githubusercontent.com/Homebrew/homebrew-cask/b6ac3795c1df9f97242481c0817b1165e3e6306a/Casks/react-native-debugger.rb`
 
 ## Documentation
 
