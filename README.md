@@ -38,9 +38,6 @@ To install the app, you can download a prebuilt binary from the [release page](h
 
 # Getting Started
 
-Just these steps will let you start RNDebugger out of box:
-
-- Install the latest version ([download page](https://github.com/jhen0409/react-native-debugger/releases)).
 - Make sure all debugger clients of React Native are closed, usually are `http://localhost:<port>/debugger-ui`
 - Make sure RNDebugger is open and wait state.
 - RNDebugger will try connect to debugger proxy, use port `8081` by default, you can create a new debugger window (macOS: `Command+T`, Linux/Windows: `Ctrl+T`) to specify the port if you want.
@@ -96,7 +93,6 @@ See [`Redux DevTools Integration`](redux-devtools-integration.md) section for mo
 
 - [React Native](https://github.com/facebook/react-native) >= 0.43
 - [React Native for macOS](https://github.com/ptmt/react-native-macos) (formerly react-native-desktop) >= 0.14.0
-- [React Native for Windows](https://github.com/Microsoft/react-native-windows)
 
 ## Examples for use RNDebugger
 
@@ -104,16 +100,6 @@ See [`Redux DevTools Integration`](redux-devtools-integration.md) section for mo
 - [`MobX counter`](../examples/counter-with-mobx) - with [`mobx-remotedev`](https://github.com/zalmoxisus/mobx-remotedev).
 
 The examples were bootstrapped with [`create-react-native-app`](https://github.com/react-community/create-react-native-app).
-
-## Auto-update RNDebugger app (Supported v0.5.0 after)
-
-Currently auto-update is only supported for macOS. Linux and Windows will show a dialog of new versions available for download.
-
-You can also click `React Native Debugger` (`RND` for Linux / Windows) -> `Check for Updates...` in the application menu.
-
-## Documentation (v0.10)
-
-Please visit [`v0.10 branch`](https://github.com/jhen0409/react-native-debugger/tree/v0.10).
 
 ## LICENSE
 
